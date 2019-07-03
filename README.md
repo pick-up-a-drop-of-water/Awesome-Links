@@ -7,5 +7,5 @@
 ##### Python Links 🔗
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
 ##### Deep Learning
-> - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+> - [Deep Learning | NLP | Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
