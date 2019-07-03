@@ -6,3 +6,6 @@
 > - [华为2019校招笔试题之旋转方阵(python版)](https://blog.csdn.net/weixin_43982238/article/details/92812419)
 ##### Python Links 🔗
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
+##### Deep Learning
+> - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
