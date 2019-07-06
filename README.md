@@ -9,4 +9,5 @@
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
 ##### Deep Learning
 > - [Deep Learning | NLP | Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-
+##### Academic Frontier 
+> - [Google AI 【VPN】](https://ai.googleblog.com/)
