@@ -14,3 +14,7 @@
 > - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ##### Academic Frontier 🔗
 > - [Google AI 【VPN】](https://ai.googleblog.com/)
+##### Code links 🔗
+> - [Neural Machine Translation with Attention
+](https://github.com/tensorflow/tensorflow/blob/r1.11/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
+)
