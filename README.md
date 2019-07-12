@@ -5,6 +5,7 @@
 > - [初见 ❤ RNN |【学以致用】](https://blog.csdn.net/weixin_43982238/article/details/94646802)
 > - [华为2019校招笔试题之处理字符串(python版)](https://blog.csdn.net/weixin_43982238/article/details/91350464)
 > - [华为2019校招笔试题之旋转方阵(python版)](https://blog.csdn.net/weixin_43982238/article/details/92812419)
+> - [【更新ing】Awesome Links](https://blog.csdn.net/weixin_43982238/article/details/95607765)
 ##  🔗 Python Links
 > - [Python 教程阅读简记](https://chyroc.cn/posts/python-tutorial-notes/)
 > - [Python 相关面试题](https://github.com/taizilongxu/interview_python)
