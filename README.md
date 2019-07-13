@@ -13,6 +13,7 @@
 > - [Deep Learning | NLP | Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 > - [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://www.leiphone.com/news/201709/8tDpwklrKubaecTa.html)
 > - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+> - [Attention机制](https://luozhouyang.github.io/attetnion_mechanism/)
 ##  🔗 Academic Frontier
 > - [Google AI 【VPN】](https://ai.googleblog.com/)
 ##  🔗 Code links
