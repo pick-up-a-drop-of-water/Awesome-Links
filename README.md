@@ -14,6 +14,7 @@
 > - [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://www.leiphone.com/news/201709/8tDpwklrKubaecTa.html)
 > - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 > - [Attention机制](https://luozhouyang.github.io/attetnion_mechanism/)
+> - [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
 ##  💭 Academic Frontier
 > - [Google AI 【VPN】](https://ai.googleblog.com/)
 ##  💦 Code links
@@ -21,5 +22,6 @@
 ](https://github.com/tensorflow/tensorflow/blob/r1.11/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
 )
 > - [Multi-task Learning in Keras](https://blog.manash.me/multi-task-learning-in-keras-implementation-of-multi-task-classification-loss-f1d42da5c3f6?gi=a1121f1f752d)
+> - [Attention-based Sequence-to-Sequence in Keras](https://wanasit.github.io/attention-based-sequence-to-sequence-in-keras.html)
 ##  🔎 Tutorial links
 > - [几乎所有与机器学习、深度学习相关的教程(with code)](https://machinelearningmastery.com/start-here/) 👍
