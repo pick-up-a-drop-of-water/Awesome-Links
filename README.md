@@ -15,6 +15,7 @@
 > - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 > - [Attention机制](https://luozhouyang.github.io/attetnion_mechanism/)
 > - [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
+> - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 ##  💭 Academic Frontier
 > - [Google AI 【VPN】](https://ai.googleblog.com/)
 ##  💦 Code links
