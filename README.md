@@ -25,5 +25,6 @@
 )
 > - [Multi-task Learning in Keras](https://blog.manash.me/multi-task-learning-in-keras-implementation-of-multi-task-classification-loss-f1d42da5c3f6?gi=a1121f1f752d)
 > - [Attention-based Sequence-to-Sequence in Keras](https://wanasit.github.io/attention-based-sequence-to-sequence-in-keras.html)
+> - [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/)
 ##  🔎 Tutorial links
 > - [几乎所有与机器学习、深度学习相关的教程(with code)](https://machinelearningmastery.com/start-here/) 👍
