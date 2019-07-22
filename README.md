@@ -17,6 +17,7 @@
 > - [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
 > - [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 > - [Attention in GIFs and how it is used in machine translation like Google Translate](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
+> - [How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
 ##  💭 Academic Frontier
 > - [Google AI 【VPN】](https://ai.googleblog.com/)
 ##  💦 Code links
