@@ -30,3 +30,5 @@
 > - [Structuring Your TensorFlow Models](https://danijar.com/structuring-your-tensorflow-models/)
 ##  🔎 Tutorial links
 > - [几乎所有与机器学习、深度学习相关的教程(with code)](https://machinelearningmastery.com/start-here/) 👍
+## 🥂 Experience Share
+> - [From a novice to one of the youngest Kaggle Competition Master and landing in a Fortune 500!](https://medium.com/analytics-vidhya/from-a-novice-to-the-youngest-kaggle-competition-master-and-landing-in-a-fortune-500-cc8acf49de)
