@@ -20,7 +20,7 @@
 > - [Attention in GIFs and how it is used in machine translation like Google Translate](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 > - [How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
 ##  💭 Academic Frontier
-> - [Google AI 【VPN】](https://ai.googleblog.com/)
+> - [Google AI](https://ai.googleblog.com/)【VPN】
 ##  💦 Code links
 > - [Neural Machine Translation with Attention
 ](https://github.com/tensorflow/tensorflow/blob/r1.11/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
